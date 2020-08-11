@@ -32,6 +32,7 @@ In order to gain better understanding of protocol tokens as a novel form of capi
 A simple way for thinking about how value flows through protocols is as a three-tier model.
 
 <br />
+![_config.yml]({{ site.baseurl }}/images/blind.png)
 ![_config.yml]({{ site.baseurl }}/images/uniswap.png)
 <figcaption align=center>Uniswap 3-tier Value Flow (Log Chart)</figcaption>
 
