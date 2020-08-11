@@ -176,8 +176,8 @@ MKR issuance through flop auctions is a model where dilution is used as an effec
 
 Liquidity mining uses dilution as a means of subsidizing an increase in supply-side liquidity, and ultimately demand-side volume (back to 3-tiered structure). Liquidity mining works dramatically over the short term to stimulate demand-side metrics, but the jury is out on how sticky it will be. 
 
-<br />
-![_config.yml]({{ site.baseurl }}images/compound-rev.png)
+<br>
+![_config.yml]({{ site.baseurl }}/images/compound-rev.png)
 <figcaption align=center>Compound Daily Protocol Revenue by Asset, post COMP subsidy</figcaption>
 <br />
 
