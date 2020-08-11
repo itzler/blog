@@ -32,11 +32,11 @@ In order to gain better understanding of protocol tokens as a novel form of capi
 A simple way for thinking about how value flows through protocols is as a three-tier model.
 
 <br />
-![]({{ site.url }}/images/uniswap.png)
+![_config.yml]({{ site.baseurl }}/images/uniswap.png)
 <figcaption align=center>Uniswap 3-tier Value Flow (Log Chart)</figcaption>
 
 <br />
-![]({{ site.url }}/images/compound.png)
+![_config.yml]({{ site.baseurl }}/images/compound.png)
 <figcaption align=center>Compound 3-tier Value Flow (Log Chart)</figcaption>
 <br />
 
@@ -51,7 +51,7 @@ The way in which this revenue stream is generated largely depends on the structu
 This potential disjointedness between total volume and fee charged revenue is why we can’t rely solely on protocol revenue as a means to see the full picture. A DEX could be doing $100M in monthly volume, but charging no trading fees on its users - clearly its potential to generate cash flow into the future is larger than 0. 
 
 <br />
-![]({{ site.url }}/images/maker.png)
+![_config.yml]({{ site.baseurl }}/images/maker.png)
 <figcaption align=center> Maker’s recent protocol revenue is low due to 0% stability fees being set for most collateral types, but *potential* cash flow from $370M in orginated debt is high. </figcaption>
 <br />
 
@@ -75,7 +75,7 @@ It’s common today to see protocols distributing 100% of revenue to ‘arbitrar
 Most PoW chains have a similar dynamic where all fee revenue is distributed to a non-token-owning supply-side: miners. Bitcoin miners can be thought of as “staking” coupons for future BTC in the form of mining hardware. BTC would not be classified as a productive asset; the mining hardware, rather than the token itself, provides the claim on 100% of protocol revenue.
 
 <br />
-![]({{ site.url }}/images/dist.png)
+![_config.yml]({{ site.baseurl }}/images/dist.png)
 <figcaption align=center> Trailing 6-Month (Feb-Aug) Revenue & Distribution by Protocol</figcaption>
 <br />
 
@@ -90,7 +90,7 @@ Protocols also tend to vary size of revenue distribution with the _level_ of wor
 The not-yet-existent Eth 2 economics can help illustrate a case where both varieties of dividend exist in parallel. It’s important to note that subsidies such as block rewards are not productive cash flow, rather, they represent dilution of future cash flows from existing holders to the subsidy recipient. 
 
 <br />
-![]({{ site.url }}/images/eth2.png)
+![_config.yml]({{ site.baseurl }}/images/eth2.png)
 <figcaption align=center>Eth2 Cash Flow Distribution</figcaption>
 <br />
 
@@ -154,7 +154,7 @@ As can be seen above in the Eth2 diagram, most protocols have not yet solved sus
 
 We see an alternative model with Compound’s Reserves; the protocol retains surplus revenue as a governable, on-chain balance sheet. 
 
-![]({{ site.url }}/images/reserves-docs.png)
+![_config.yml]({{ site.baseurl }}/images/reserves-docs.png)
 <br />
 
 (Compound reserves, post COMP)
@@ -176,14 +176,14 @@ MKR issuance through flop auctions is a model where dilution is used as an effec
 Liquidity mining uses dilution as a means of subsidizing an increase in supply-side liquidity, and ultimately demand-side volume (back to 3-tiered structure). Liquidity mining works dramatically over the short term to stimulate demand-side metrics, but the jury is out on how sticky it will be. 
 
 <br />
-![]({{ site.url }}/images/compound-rev.png)
+![_config.yml]({{ site.baseurl }}images/compound-rev.png)
 <figcaption align=center>Compound Daily Protocol Revenue by Asset, post COMP subsidy</figcaption>
 <br />
 
 Liquidity mining as a growth strategy also reminds me of the story of Henry Singleton, CEO of Teledyne in the 60’s and 70’s. Over 8 years while Teledyne was trading at high multiples, he bought 130 companies -- all but 2 acquisitions were made using his own stock. These were the returns during the period [5].
 
-<br 
-![]({{ site.url }}/images/singleton.png)
+<br>
+![_config.yml]({{ site.baseurl }}/images/singleton.png)
 <figcaption align=center>Singleton returns during issuance spree</figcaption>
 <br />
 
