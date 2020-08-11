@@ -7,7 +7,7 @@ categories: jekyll update
 _This paper aims to lay out a framework for protocol-generated value flows, the sets of stakeholders to which value is distributed, and how a native token fits in._
 
 <br />
-![]({{ site.url }}/images/blind.png)
+![]({{ site.baseurl }}/images/blind.png)
 <figcaption align=center>Trying to reason about the makeup of protocol tokens.</figcaption>
 <br />
 
