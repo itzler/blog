@@ -2,7 +2,7 @@
 layout: post
 title:  "On protocol tokens & on-chain cash flows"
 date:   2020-08-11 01:47:15 -0400
-categories: 
+categories: jekyll update
 ---
 _This paper aims to lay out a framework for protocol-generated value flows, the sets of stakeholders to which value is distributed, and how a native token fits in._
 
