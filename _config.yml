@@ -22,7 +22,7 @@ title: Jon Itzler
 email: jon@accomplice.co
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://itzler.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://itzler.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jonitzler
 github_username:  itzler
 
