@@ -28,7 +28,6 @@ github_username:  itzler
 
 # Build settings
 theme: minima
-permalink: /:year/:month/:day/:title.html
 #plugins:
 #  - jekyll-feed
 
