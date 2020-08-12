@@ -190,7 +190,7 @@ Then, Singleton abruptly changed directions. For the next 12 years, he bought ba
 
 # **Final Thoughts**
 
-A key emergent principle of protocol economics is the ability to incentivize human actors to forgo acting individually rational against the system over the short term, in favor of acting collectively rational with the system over the long term. This applies in the micro view (i.e. PoW security as reliant on long term alignment from miners with the network’s prospects), but it also makes sense that the success of crypto thus far has probably had just as much to do with the ecosystem’s portfolio exposures as with what the technology actually allows developers & users to accomplish.
+A key emergent principle of protocol economics is the ability to incentivize human actors to forgo acting individually rational against the system over the short term, in favor of acting collectively rational with the system over the long term. This applies in the micro view (i.e. PoW security as reliant on long term alignment from miners with the network’s prospects), but it also makes sense that the success of crypto thus far has probably had just as much to do with the _ecosystem’s portfolio exposures_ as with what the technology actually allows developers & users to accomplish.
 
 Tokens are clearly unlike any form of previous capital instrument, one instantiation being the ability to incentivize a supply-side before true demand exists. However, it’s important to remember that demand for a provided product / service is what matters over the long term. 
 
