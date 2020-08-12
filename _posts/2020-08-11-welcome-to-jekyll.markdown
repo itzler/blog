@@ -28,7 +28,7 @@ In combination, tokens have intrinsic value as claim - or potential claim - on f
 
 In order to gain better understanding of protocol tokens as a novel form of capital, it’s worth examining the piece that is quantifiably valuable: cash flows. 
 
-# **On-chain cash clows**
+# **On-chain cash flows**
 
 A simple way for thinking about how value flows through protocols is as a three-tier model.
 
