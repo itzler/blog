@@ -164,7 +164,7 @@ We see an alternative model with Compound’s Reserves; the protocol retains sur
 
 Reserves can be continuously lent out, improving the interest accrued by true lenders. This grows Compound’s moat, propagating the feedback loop forward, ultimately resulting in more funds accrued as reserves. Through governance, COMP already grants an effective claim over reserves, so the question becomes: **why pay out dividends when you can let retained cash flow accrue to an on-chain balance sheet and continue to compound**?
 
-Reserves are first and foremost used as an intra-protocol insurance cushion, but they could in theory be used for other things. Some safety margin could be determined by governance in order to skim off excess reserves and auction them for COMP as a buy & burn dividend when the price is favorably low. But reserves could also function as a protocol treasury that is computationally rebalanced in order of importance to active contributors, voters, and delegators.
+Reserves are first and foremost used as an intra-protocol insurance cushion, but they could in theory be used for other things. Some safety margin could be determined by governance in order to skim off excess reserves and auction them for COMP as a buy & burn dividend when the price is favorably low. But reserves could also function as a protocol treasury that is computationally rebalanced in order of importance to active contributors, voters, and delegators. 
 
 # **Dilution as Funding**
 
