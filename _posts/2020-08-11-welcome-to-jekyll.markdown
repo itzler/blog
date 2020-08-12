@@ -198,8 +198,6 @@ Tokens are clearly unlike any form of previous capital instrument, one instantia
 
 Protocol generated revenues are a useful metric for gauging this demand, but the intrinsic value of a protocol token is based on a protocol’s _total_ ability to generate cash flow in the future, potentially independent of what share is presently being paid out dividend or accrued to a treasury. There also exists potential ways that present cash flows can be allocated - or future cash flows can be dynamically re-allocated - with a longer term view towards return on capital.
 
-<br />
-
 _Thank you to Ash Egan, Teo Leibowtiz, and Dan Elitzer for feedback on previous versions_
 
 <br />
