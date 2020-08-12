@@ -69,14 +69,14 @@ A protocol token is a productive asset if revenue share is distributed to either
 
 It’s common today to see protocols distributing 100% of revenue to ‘arbitrary’ supply-side participants, where a native token is not required to provide the service, nor is revenue share distributed as a function of native tokens owned/staked by the service provider. Within DeFi protocols, this service is usually some form of liquidity provision. LP’s in both Balancer and Uniswap V2 (with no 0.05% protocol charge switched on) are distributed the entirety of protocol revenue.
 
-Most PoW chains have a similar dynamic where all fee revenue is distributed to a non-token-owning supply-side: miners. Bitcoin miners can be thought of as “staking” coupons for future BTC in the form of mining hardware. BTC would not be classified as a productive asset; the mining hardware, rather than the token itself, provides the claim on 100% of protocol revenue.
+Most PoW chains have a similar dynamic where all fee revenue is distributed to a non-token-owning supply-side: miners. Bitcoin miners can be thought of as “staking” coupons for future BTC in the form of mining hardware. This is why BTC would not be classified as a productive asset; the mining hardware, rather than the token itself, provides the claim on 100% of protocol revenue.
 
 <br />
 ![_config.yml]({{ site.baseurl }}/images/dist.png)
 <figcaption align=center> Trailing 6-Month (Feb-Aug) Revenue & Distribution by Protocol</figcaption>
 <br />
 
-With regards to tokens that _are_ productive assets, the most common model is paying out some share of protocol revenue to token owners as a dividend. Buy & burn mechanisms, like stock buybacks, are simply as if you received a dividend and used it to buy more shares. When tokens are burned with protocol revenue, the effective dividend is paid out to the entire base of token owners. 
+With regards to tokens that are productive assets, the most common model is paying out some share of protocol revenue to token owners as a dividend. Buy & burn mechanisms, like stock buybacks, are simply as if you received a dividend and used it to buy more shares. When tokens are burned with protocol revenue, the effective dividend is paid out to the entire base of token owners. 
 
 Staking rewards - specifically, the share made up by protocol revenue rather than a subsidy - are another form of dividend. Unlike buy & burn models, the dividend is only paid out to token owning participants that are additionally providing a supply-side service: locking capital by staking the native asset. The implied yield on capital receiving a buy & burn dividend is `protocol revenue paid out / total supply * price`, but with staking rewards, the calculation shifts to `protocol revenue paid out /`**`staked supply`**`* price`.
 
@@ -93,9 +93,7 @@ The not-yet-existent Eth 2 economics can help illustrate a case where both varie
 
 Assuming that either EIP-1559 and/or ETH2 is successfully implemented, Ether would shift in makeup to a productive asset. This more broadly applies to all native assets of PoS chains. Both validators, and stakers delegating to validators, are members of the above participant set where token-ownership is required in order to perform a supply-side service. 
 
-The fee revenue portion of the staking reward (‘tips’) is a paid as a dividend, where delegating stakers will likely receive slightly less share than validators due to the presence of delegation fees.
-
-The ether burned as base fees in EIP-1559 is another form of dividend, except it is paid out to all token owners. Validators and delegating stakers effectively “stack” both of these forms of dividend, receiving:
+The fee revenue portion of the staking reward (‘tips’) is a paid as a dividend, where delegating stakers will likely receive slightly less share than validators due to the presence of delegation fees. Ether burned as `BASEFEE` in EIP-1559 is another form of dividend, except it is paid out to all token owners. Validators and delegating stakers effectively “stack” both of these forms of dividend, receiving:
 
 - a) the burned fee revenue, where yield on capital is proportional to percentage ownership of the total token supply
 - b) the fee revenue rewarded to stakers, where yield on capital is proportional to percentage ownership of total tokens _staked_ 
@@ -160,11 +158,11 @@ We see an alternative model with Compound’s Reserves; the protocol retains sur
 
 Reserves can be continuously lent out, improving the interest accrued by true lenders. This grows Compound’s moat, propagating the feedback loop forward, ultimately resulting in more funds accrued as reserves. Through governance, COMP already grants an effective claim over reserves, so the question becomes: **why pay out dividends when you can let retained cash flow accrue to an on-chain balance sheet and continue to compound**?
 
-Reserves are first and foremost used as an intra-protocol insurance cushion, but they could in theory be used for other things. Some safety margin could be determined by governance in order to skim off excess reserves and auction them for COMP as a buy & burn dividend when the price is favorably low. But reserves could also function as a protocol treasury that is computationally rebalanced in order of importance to active contributors, voters, and delegators. 
+Reserves are first and foremost used as an intra-protocol insurance cushion, but they could in theory be used for other things. Some safety margin could be determined by governance in order to skim off excess reserves and auction them for COMP as a buy & burn dividend when the price is favorably low. But reserves could also function as a protocol treasury that is computationally rebalanced in order of importance to active contributors, voters, and delegators! 
 
 # **Dilution as Funding**
 
-Protocols need to incentivize broader protocol goods, which includes developers, governing roles, and things like insurance. These needs are very likely to produce a better return on capital over the long term vs. paying dividends. 
+Protocols need to incentivize broader protocol goods, which includes things like development, governing roles, and insurance. Allocation to these needs could very well contribute to a better return on capital over the long term vs. paying dividends. 
 
 This can be done using distribution of present cash flows or allocation from a retained protocol treasury, but it can also be done through dilution of future cash flows as issuance. 
 
