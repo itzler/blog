@@ -28,7 +28,7 @@ In combination, tokens have intrinsic value as claim - or potential claim - on f
 
 In order to gain better understanding of protocol tokens as a novel form of capital, it’s worth examining the piece that is quantifiably valuable: cash flows. 
 
-# **On-Chain Cash Flows**
+# **On-chain cash clows**
 
 A simple way for thinking about how value flows through protocols is as a three-tier model.
 
@@ -56,7 +56,7 @@ This potential disjointedness between total volume and fee charged revenue is wh
 
 Protocols are often described as similar to cooperatives in that revenue share is allocated directly to market participants, rather than to a single margin-maximizing entity. This is why there is no easy way to define a blanket “earnings” metric -- protocol stakeholders are far more diverse than shareholders of a business.
 
-# **Protocol Revenue Distribution**
+# **Protocol revenue distribution**
 
 It makes sense to classify four comprehensive sets of participants to which protocol revenue is distributed:
 
@@ -82,7 +82,7 @@ Staking rewards - specifically, the share made up by protocol revenue rather tha
 
 Protocols also tend to vary size of revenue distribution with the _level_ of work provided by a given class of participant. 0x distributes protocol revenue to market makers (weighted by maker orders filled and pro rata share of tokens staked), of which, a sub-portion is paid out to token owners delegating stake to a given market maker. 
 
-# **Dynamic Redistribution of Future Cash Flows**
+# **Dynamic redistribution of future cash flows**
 
 The not-yet-existent Eth 2 economics can help illustrate a case where both varieties of dividend exist in parallel. It’s important to note that subsidies such as block rewards are not productive cash flow, rather, they represent dilution of future cash flows from existing holders to the subsidy recipient. 
 
@@ -104,7 +104,7 @@ Considering these protocol revenue distribution dynamics in combination, we see 
 2. Delegating stakers
 3. Token owners
 
-# **Problems with Dividend Models**
+# **Problems with dividend models**
 
 There’s a couple problems with deterministically paying out protocol revenue as a dividend to token owners or token-owning supply-side participants. Buffet explains the first one, which applies to buy & burn models:
 
@@ -134,7 +134,7 @@ Historically, Maker has been short convexity, diluting owners (MKR flops) when t
 <br />
 The other issue with paying out dividends is that you lose out on the natural compounding effect that businesses exhibit in their ability to reinvest retained earnings. 
 
-# **More Optimal Models**
+# **More optimal models**
 
 _“Designed correctly, an effective distribution of a fee stream can further entrench network effects by giving users a direct economic incentive to contribute, generating more defensibility, which in turn, reinforces the viability of the fee stream in the first place.”_ [1]
 
@@ -156,19 +156,17 @@ We see an alternative model with Compound’s Reserves; the protocol retains sur
 <figcaption align=center>Compound Reserves USD By Asset, post COMP subsidy</figcaption>
 <br />
 
-Reserves can be continuously lent out, improving the interest accrued by true lenders. This grows Compound’s moat, propagating the feedback loop forward, ultimately resulting in more funds accrued as reserves. Through governance, COMP already grants an effective claim over reserves, so the question becomes: **why pay out dividends when you can let retained cash flow accrue to an on-chain balance sheet and continue to compound**?
+Reserves can be continuously lent out, improving the interest accrued by true lenders. This grows Compound’s moat, propagating the feedback loop forward, ultimately resulting in more funds accrued as reserves. Through governance, COMP already grants an effective claim over reserves, so the question becomes: **why pay out dividends when you can let retained cash flow accrue to an on-chain balance sheet and continue to compound?**
 
 Reserves are first and foremost used as an intra-protocol insurance cushion, but they could in theory be used for other things. Some safety margin could be determined by governance in order to skim off excess reserves and auction them for COMP as a buy & burn dividend when the price is favorably low. But reserves could also function as a protocol treasury that is computationally rebalanced in order of importance to active contributors, voters, and delegators! 
 
-# **Dilution as Funding**
+# **Dilution as funding & cash flow expansion**
 
 Protocols need to incentivize broader protocol goods, which includes things like development, governing roles, and insurance. Allocation to these needs could very well contribute to a better return on capital over the long term vs. paying dividends. 
 
 This can be done using distribution of present cash flows or allocation from a retained protocol treasury, but it can also be done through dilution of future cash flows as issuance. 
 
 MKR issuance through flop auctions is a model where dilution is used as an effectively limitless insurance backstop [6]. Tezos style issuance that rewards contributors of protocol upgrades is another potential use of dilution as funding - I could imagine Compound governors adding something similar if they thought it beneficial. 
-
-# **Dilution as Cash Flow Expansion**
 
 Liquidity mining uses dilution as a means of subsidizing an increase in supply-side liquidity, and ultimately demand-side volume (back to 3-tiered structure). Liquidity mining works dramatically over the short term to stimulate demand-side metrics, but the jury is out on how sticky it will be. 
 
@@ -186,7 +184,7 @@ Liquidity mining as a growth strategy also reminds me of the story of Henry Sing
 
 Then, Singleton abruptly changed directions. For the next 12 years, he bought back over 90% of outstanding stock at cheap multiples. Similarly to expanding sales through acquisitions, liquidity mining uses dilution to purchase demand-side volume. Over the long term, protocols can bring future growth into the present through subsidy issuance and then ultimately capture some portion of that expanded value flow. 
 
-# **Final Thoughts**
+# **Final thoughts**
 
 A key emergent principle of protocol economics is the ability to incentivize human actors to forgo acting individually rational against the system over the short term, in favor of acting collectively rational with the system over the long term. This applies in the micro view (i.e. PoW security as reliant on long term alignment from miners with the network’s prospects), but it also makes sense that the success of crypto thus far has probably had just as much to do with the _ecosystem’s portfolio exposures_ as with what the technology actually allows developers & users to accomplish.
 
