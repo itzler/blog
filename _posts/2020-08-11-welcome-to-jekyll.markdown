@@ -157,8 +157,9 @@ We see an alternative model with Compound’s Reserves; the protocol retains sur
 
 ![_config.yml]({{ site.baseurl }}/images/reserves-docs.png)
 <br />
-
-(Compound reserves, post COMP)
+![_config.yml]({{ site.baseurl }}/images/reserves.png)
+<figcaption align=center>Compound Reserves USD By Asset, post COMP subsidy</figcaption>
+<br />
 
 Reserves can be continuously lent out, improving the interest accrued by true lenders. This grows Compound’s moat, propagating the feedback loop forward, ultimately resulting in more funds accrued as reserves. Through governance, COMP already grants an effective claim over reserves, so the question becomes: **why pay out dividends when you can let retained cash flow accrue to an on-chain balance sheet and continue to compound**?
 
