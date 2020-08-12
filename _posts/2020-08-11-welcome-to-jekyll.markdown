@@ -49,7 +49,7 @@ This potential disjointedness between total volume and fee charged revenue is wh
 
 <br />
 ![_config.yml]({{ site.baseurl }}/images/maker.png)
-<figcaption align=center> Maker’s recent protocol revenue is low due to 0% stability fees being set for most collateral types, but *potential* cash flow from $370M in orginated debt is high. </figcaption>
+<figcaption align=center> Maker’s recent protocol revenue is low due to 0% stability fees being set for most collateral types, but *potential* cash flow from $420M in orginated debt is high. </figcaption>
 <br />
 
 **Tier 3:** Protocols divvy up the total revenue stream and direct it to various participant groups within the market. 
