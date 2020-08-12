@@ -129,7 +129,7 @@ Historically, Maker has been short convexity, diluting owners (MKR flops) when t
    </td>
   </tr>
 </table>
-<figcaption align=center>Maker (Price / Trailing 365-day Protocol Revenue) Ratio </figcaption>
+<figcaption align=center>MKR Burns vs. Issuance - (Price / Trailing 365-day Protocol Revenue) Ratio </figcaption>
 
 <br />
 The other issue with paying out dividends is that you lose out on the natural compounding effect that businesses exhibit in their ability to reinvest retained earnings. 
