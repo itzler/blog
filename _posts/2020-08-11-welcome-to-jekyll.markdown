@@ -202,6 +202,8 @@ Despite being only one piece of a far more complex puzzle, as well as seemingly 
 
 _Thank you to Ash Egan, Teo Leibowtiz, and Dan Elitzer for feedback on previous versions_
 
+<br />
+
 # Sources: 
 
 [1] [Crypto's Business Model is Familiar. What Isn't is Who Benefits](https://jessewalden.com/cryptos-business-model-is-familiar-what-isnt-is-who-benefits-2/)
