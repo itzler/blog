@@ -194,12 +194,12 @@ A key emergent principle of protocol economics is the ability to incentivize hum
 
 Tokens are clearly unlike any form of previous capital instrument, one instantiation being the ability to incentivize a supply-side before true demand exists. However, it’s important to remember that demand for a provided product / service is what matters over the long term. 
 
-Protocol generated revenues are a useful metric for gauging this demand, but the intrinsic value of a protocol token is based on a protocol’s total ability to generate cash flow in the future, potentially independent of what share is presently being paid out dividend or accrued to a treasury. There also exists potential ways that present cash flows can be allocated - or future cash flows can be dynamically re-allocated - with a longer term view towards return on capital.
+Protocol generated revenues are a useful metric for gauging this demand, but the intrinsic value of a protocol token is based on a protocol’s _total_ ability to generate cash flow in the future, potentially independent of what share is presently being paid out dividend or accrued to a treasury. There also exists potential ways that present cash flows can be allocated - or future cash flows can be dynamically re-allocated - with a longer term view towards return on capital.
 
 Despite being only one piece of a far more complex puzzle, as well as seemingly becoming less important as we enter Crypto Keynesian Meme Contest 2.0™, future cash flows serve as a fundamental basis on which protocol tokens are quantifiably valuable.
 
-
 <br />
+
 _Thank you to Ash Egan, Teo Leibowtiz, and Dan Elitzer for feedback on previous versions_
 
 # Sources: 
