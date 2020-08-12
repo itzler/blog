@@ -20,7 +20,7 @@ I expect that the vast majority protocol tokens will be **productive assets.** T
 
 Protocol cash flows are still relatively small, but the **intrinsic value** of a productive asset is the sum of _all future cash_ that it can generate, discounted to the present. These are early stage technology projects , so  if successful, the lion share of cash generation ability lives in the future. 
 
-However, we can’t simply analyze protocol tokens in the same lense as traditional forms of productive capital. For one, protocols distribute cash flows directly to varying sets of market participants, as well as redistribute share of future cash flows between these participants (i.e. a subsidy paid to the supply-side). 
+However, we can’t simply analyze protocol tokens in the same lense as traditional forms of productive capital. For one, protocols distribute cash flows directly to varying sets of market participants, as well as redistribute share of future cash flows between these participants.
 
 Tokens can also grant access to distinct forms of non-cash flow-related utility, and can even be socially accepted as commodity money! Sometimes these additional demand pressures are quantifiable (i.e. a discount token), but often, we can only reason about them qualitatively. How much is governance over a widely integrated DeFi protocol worth to second layer projects, or during a fork choice? 
 
@@ -192,9 +192,11 @@ Then, Singleton abruptly changed directions. For the next 12 years, he bought ba
 
 # **Final Thoughts**
 
-*   Cash flows, are great. In bullish times, we saw for base layers they spike (volume + tx fees). Can expect similar for second layer DEX’s, lending, etc.we are already seeing it
-*   Forward looking ratio will reach *max* at highest points of bull
-*   One useful ratio alluded to earlier is Price / trailing 365 day protocol revenue. To give idea, ETH was at x. (chart)
+A key emergent principle of protocol economics is the ability to incentivize human actors to forgo acting individually rational against the system over the short term, in favor of acting collectively rational with the system over the long term. This applies in the micro view (i.e. PoW security as reliant on long term alignment from miners with the network’s prospects), but it also makes sense that the success of crypto thus far has probably had just as much to do with _the ecosystem’s portfolio exposures_ as with what the technology allows developers & users to accomplish.
+
+Tokens are clearly unlike any form of previous capital instrument, one instantiation being the ability to incentivize a supply-side before true demand exists. However, it’s important to remember that demand for a provided product / service is what matters over the long term. 
+
+Protocol generated revenues are a useful metric for gauging this demand, but the intrinsic value of a protocol token is based on a protocol’s _total_ ability to generate cash flow in the future, potentially independent of what share is presently being paid out dividend or accrued to a treasury. There also exists potential ways that present cash flows can be allocated - or future cash flows can be dynamically re-allocated - with a longer term view towards return on capital.
 
 <br />
 
