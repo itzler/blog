@@ -156,6 +156,7 @@ As can be seen above in the Eth2 diagram, most protocols have not yet solved sus
 We see an alternative model with Compound’s Reserves; the protocol retains surplus revenue as a governable, on-chain balance sheet. 
 
 ![_config.yml]({{ site.baseurl }}/images/reserves-docs.png)
+<br>
 <br />
 ![_config.yml]({{ site.baseurl }}/images/reserves.png)
 <figcaption align=center>Compound Reserves USD By Asset, post COMP subsidy</figcaption>
