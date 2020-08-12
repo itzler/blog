@@ -98,7 +98,7 @@ The fee revenue portion of the staking reward (‘tips’) is a paid as a divide
 - a) the burned fee revenue, where yield on capital is proportional to percentage ownership of the total token supply
 - b) the fee revenue rewarded to stakers, where yield on capital is proportional to percentage ownership of total tokens _staked_ 
 
-Considering these protocol revenue distribution dynamics in combination, we see something extremely interesting: **distribution of future cash flows is computationally rebalanced between participant classes in order of their importance to the protocol!** [2]
+Considering these protocol revenue distribution dynamics in combination, we see something extremely interesting: **distribution of future cash flows is computationally rebalanced between participant classes in order of their importance to the protocol!** [1]
 
 1. Validators
 2. Delegating stakers
@@ -108,7 +108,7 @@ Considering these protocol revenue distribution dynamics in combination, we see 
 
 There’s a couple problems with deterministically paying out protocol revenue as a dividend to token owners or token-owning supply-side participants. Buffet explains the first one, which applies to buy & burn models:
 
-_"Repurchases are sensible for a company when its shares sell at a meaningful discount to conservatively calculated intrinsic value … But never forget: In repurchase decisions: price is all important. Value is destroyed when purchases are made above intrinsic value.”_ [4]
+_"Repurchases are sensible for a company when its shares sell at a meaningful discount to conservatively calculated intrinsic value … But never forget: In repurchase decisions: price is all important. Value is destroyed when purchases are made above intrinsic value.”_ [2]
 
 Put simply, it makes sense to buy & burn when the asset is cheap and doesn’t when it’s expensive. Using protocol revenue to buyback a token that just pumped 10000% over the last month is probably not the most effective way to allocate surplus cash flow. 
 
@@ -136,7 +136,7 @@ The other issue with paying out dividends is that you lose out on the natural co
 
 # **More optimal models**
 
-_“Designed correctly, an effective distribution of a fee stream can further entrench network effects by giving users a direct economic incentive to contribute, generating more defensibility, which in turn, reinforces the viability of the fee stream in the first place.”_ [1]
+_“Designed correctly, an effective distribution of a fee stream can further entrench network effects by giving users a direct economic incentive to contribute, generating more defensibility, which in turn, reinforces the viability of the fee stream in the first place.”_ [3]
 
 An optimal token model is one that: 
 
@@ -166,7 +166,7 @@ Protocols need to incentivize broader protocol goods, which includes things like
 
 This can be done using distribution of present cash flows or allocation from a retained protocol treasury, but it can also be done through dilution of future cash flows as issuance. 
 
-MKR issuance through flop auctions is a model where dilution is used as an effectively limitless insurance backstop [6]. Tezos style issuance that rewards contributors of protocol upgrades is another potential use of dilution as funding - I could imagine Compound governors adding something similar if they thought it beneficial. 
+MKR issuance through flop auctions is a model where dilution is used as an effectively limitless insurance backstop [4]. Tezos style issuance that rewards contributors of protocol upgrades is another potential use of dilution as funding - I could imagine Compound governors adding something similar if they thought it beneficial. 
 
 Liquidity mining uses dilution as a means of subsidizing an increase in supply-side liquidity, and ultimately demand-side volume (back to 3-tiered structure). Liquidity mining works dramatically over the short term to stimulate demand-side metrics, but the jury is out on how sticky it will be. 
 
@@ -202,15 +202,14 @@ _Thank you to Ash Egan, Teo Leibowtiz, and Dan Elitzer for feedback on previous 
 
 # Sources: 
 
-[1] [Crypto's Business Model is Familiar. What Isn't is Who Benefits](https://jessewalden.com/cryptos-business-model-is-familiar-what-isnt-is-who-benefits-2/)
+[1] [https://twitter.com/_charlienoyes/status/1041196651283509248](https://twitter.com/_charlienoyes/status/1041196651283509248)
 
-[2] [https://twitter.com/_charlienoyes/status/1041196651283509248](https://twitter.com/_charlienoyes/status/1041196651283509248)
+[2] [Buybackquotes](http://mastersinvest.com/buybackquotes)
 
-[3] [https://explore.duneanalytics.com/dashboard/0x-staking-stats](https://explore.duneanalytics.com/dashboard/0x-staking-stats)
+[3] [Crypto's Business Model is Familiar. What Isn't is Who Benefits](https://jessewalden.com/cryptos-business-model-is-familiar-what-isnt-is-who-benefits-2/)
 
-[4] [Buybackquotes](http://mastersinvest.com/buybackquotes)
+[4] [https://twitter.com/tomhschmidt/status/1280309859657715713](https://twitter.com/tomhschmidt/status/1280309859657715713)
 
 [5] [The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success](https://www.amazon.com/Outsiders-Unconventional-Radically-Rational-Blueprint/dp/1422162672)
 
-[6] [https://twitter.com/tomhschmidt/status/1280309859657715713](https://twitter.com/tomhschmidt/status/1280309859657715713)
 
