@@ -195,7 +195,7 @@ A lot of a bull market/mania can only be attributed to speculative premium, but 
 It’s worthwhile to be wary of forward looking “P/E” ratios, at least if you’re looking for a useful signal. Depending on the trailing timeline, Ethereum’s `Price / Forward-Looking Fee Revenue` ratio has historically _bottomed out_ when it was most expensive. `Price / Trailing 365-day Fee Revenue` tends to serve as a more reasonable signal of cheapness, particularly when price is low as compared to the fee revenues of the previous bull market.
 
 <br>
-![_config.yml]({{ site.baseurl }}/images/ethereum-pr.png)
+![_config.yml]({{ site.baseurl }}/images/ethereum-pr.png).
 <figcaption align=center>Ethereum Price / Fee Revenue Ratio - Trailing 365-day (Log Chart)</figcaption>
 <br />
 
