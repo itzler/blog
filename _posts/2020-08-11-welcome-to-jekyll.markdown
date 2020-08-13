@@ -184,15 +184,25 @@ Liquidity mining as a growth strategy also reminds me of the story of Henry Sing
 
 Then, Singleton abruptly changed directions. For the next 12 years, he bought back over 90% of outstanding stock at cheap multiples. Similarly to expanding sales through acquisitions, liquidity mining uses dilution to purchase demand-side volume. Over the long term, protocols can bring future growth into the present through subsidy issuance and then ultimately capture some portion of that expanded value flow. 
 
-# **Final thoughts**
+# **Thoughts on present & future**
 
-A key emergent principle of protocol economics is the ability to incentivize human actors to forgo acting individually rational against the system over the short term, in favor of acting collectively rational with the system over the long term. This applies in the micro view (i.e. PoW security as reliant on long term alignment from miners with the network’s prospects), but it also makes sense that the success of crypto thus far has probably had just as much to do with the _ecosystem’s portfolio exposures_ as with what the technology actually allows developers & users to accomplish.
+The crypto market has seemed to revert to its unfortunately natural state as a Keynesian Meme Contest, so its either the best time or the worst time to discuss the fundamentals. 
 
-Tokens are clearly unlike any form of previous capital instrument, one instantiation being the ability to incentivize a supply-side before true demand exists. However, it’s important to remember that demand for a provided product / service is what matters over the long term. 
+A few of the recent dynamics can be described through the lens of cash flows. 
 
-Protocol generated revenues are a useful metric for gauging this demand, but the intrinsic value of a protocol token is based on a protocol’s _total_ ability to generate cash flow in the future, potentially independent of what share is presently being paid out dividend or accrued to a treasury. There also exists potential ways that present cash flows can be allocated - or future cash flows can be dynamically re-allocated - with a longer term view towards return on capital.
+A lot of a bull market/mania can only be attributed to speculative premium, but cash flows have historically increased by orders of magnitude during these periods. Last cycle, it was fee revenue on Bitcoin and Ethereum and the evidence is clear that this will repeat, but we are also seeing massive expansions in DEX volume, lending volume, etc. 
 
-Despite being only one piece of a far more complex puzzle, as well as seemingly becoming less important as we enter Crypto Keynesian Meme Contest 2.0™, future cash flows serve as a fundamental basis on which protocol tokens are quantifiably valuable.
+It’s worthwhile to be wary of forward looking “P/E” ratios, at least if you’re looking for a useful signal. Depending on the trailing timeline, Ethereum’s `Price / Forward-Looking Fee Revenue` ratio has historically _bottomed out_ when it was most expensive. `Price / Trailing 365-day Fee Revenue` tends to serve as a more reasonable signal of cheapness, particularly when price is low as compared to the fee revenues of the previous bull market.
+
+<br>
+![_config.yml]({{ site.baseurl }}/images/ethereum-pr.png)
+<figcaption align=center>Ethereum Price / Fee Revenue Ratio - Trailing 365-day (Log Chart)</figcaption>
+<br />
+
+In addition, we’ve seen dilution of a productive (or non-productive) asset as growth funding in liquidity mining. Subsidies happen to massively outcompete all other yields when assets are trading at large speculative premiums from day 0, and as we know, liquidity mining *can* produce in large increase in demand-side metrics (possibly legit, possibly not) . 
+
+We also have seen a real-time “collateral premium” reflected in assets, due to both low liquidity and demand to chase these yields. Examples include BAT with compound, all YAM farmable assets, etc. This is further proof that tokens very much dissimilar from traditional forms of capital like equity. In addition to their value as productive assets, tokens can exhibit temporary or permanent demand premiums, one of which collateral-dependent yields in farming. 
+
 
 <br />
 
