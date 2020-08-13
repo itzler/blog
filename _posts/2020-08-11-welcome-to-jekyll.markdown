@@ -195,11 +195,11 @@ A lot of a bull market/mania can only be attributed to speculative premium, but 
 It’s worthwhile to be wary of forward looking “P/E” ratios, at least if you’re looking for a useful signal. Depending on the trailing timeline, Ethereum’s `Price / Forward-Looking Fee Revenue` ratio has historically _bottomed out_ when it was most expensive. `Price / Trailing 365-day Fee Revenue` tends to serve as a more reasonable signal of cheapness, particularly when price is low as compared to the fee revenues of the previous bull market.
 
 <br>
-![_config.yml]({{ site.baseurl }}/images/ethereum-pr.png).
+![_config.yml]({{ site.baseurl }}/images/ethereum-pr.png)
 <figcaption align=center>Ethereum Price / Fee Revenue Ratio - Trailing 365-day (Log Chart)</figcaption>
 <br />
 
-In addition, we’ve seen dilution of a productive (or non-productive) asset as growth funding in liquidity mining. Subsidies happen to massively outcompete all other yields when assets are trading at large speculative premiums from day 0, and as we know, liquidity mining *can* produce in large increase in demand-side metrics (possibly legit, possibly not) . 
+In addition, we’ve seen dilution of a productive (or non-productive) asset as growth funding in liquidity mining. Subsidies happen to massively outcompete all other yields when assets are trading at large speculative premiums from day 0, and as we know, liquidity mining _can_ produce in large increase in demand-side metrics (possibly legit, possibly not). 
 
 We also have seen a real-time “collateral premium” reflected in assets, due to both low liquidity and demand to chase these yields. Examples include BAT with compound, all YAM farmable assets, etc. This is further proof that tokens very much dissimilar from traditional forms of capital like equity. In addition to their value as productive assets, tokens can exhibit temporary or permanent demand premiums, one of which collateral-dependent yields in farming. 
 
