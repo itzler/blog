@@ -188,7 +188,7 @@ Then, Singleton abruptly changed directions. For the next 12 years, he bought ba
 
 The crypto market has seemed to revert to its unfortunately natural state as a Keynesian Meme Contest, so its either the best time or the worst time to discuss the fundamentals. 
 
-A few of the recent dynamics can be described through the lens of cash flows..  
+A few of the recent dynamics can be described through the lens of cash flows.
 
 A lot of a bull market/mania can only be attributed to speculative premium, but cash flows have historically increased by orders of magnitude during these periods. Last cycle, it was fee revenue on Bitcoin and Ethereum and the evidence is clear that this will repeat, but we are also seeing massive expansions in DEX volume, lending volume, etc. 
 
