@@ -199,7 +199,7 @@ It’s worthwhile to be wary of forward looking “P/E” ratios, at least if yo
 
 In addition, we’ve seen dilution of a productive (or non-productive) asset as growth funding in liquidity mining. Subsidies happen to massively outcompete all other yields when assets are trading at large speculative premiums from day 0, and as we know, liquidity mining _can_ produce in large increase in demand-side metrics (possibly legit, possibly not). 
 
-We also have seen a real-time “collateral premium” reflected in assets, due to both low liquidity and demand to chase these yields. Examples include BAT with compound, all YAM farmable assets, etc. This is further proof that tokens very much dissimilar from traditional forms of capital like equity. In addition to their value as productive assets, tokens can exhibit temporary or permanent demand premiums, one of which collateral-dependent yields in farming. 
+We also have seen a real-time “collateral premium” reflected in assets, due to both low liquidity and demand to chase these yields. Examples include BAT with Compound, all YAM farmable assets, etc. This is further proof that tokens very much dissimilar from traditional forms of capital like equity. In addition to their value as productive assets, tokens can exhibit temporary or permanent demand premiums, one of which collateral-dependent yields in farming. 
 
 
 <br />
