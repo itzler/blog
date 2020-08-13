@@ -93,7 +93,7 @@ The not-yet-existent Eth 2 economics can help illustrate a case where both varie
 
 Assuming that either EIP-1559 and/or ETH2 is successfully implemented, Ether would shift in makeup to a productive asset. This more broadly applies to all native assets of PoS chains. Both validators, and stakers delegating to validators, are members of the above participant set where token-ownership is required in order to perform a supply-side service. 
 
-The fee revenue portion of the staking reward (‘tips’) is a paid as a dividend, where delegating stakers will likely receive slightly less share than validators due to the presence of delegation fees. Ether burned as `BASEFEE` in EIP-1559 is another form of dividend, except it is paid out to all token owners. Validators and delegating stakers effectively “stack” both of these forms of dividend, receiving:
+The fee revenue portion of the staking reward (‘tips’) is paid as a dividend, where delegating stakers will likely receive slightly less share than validators due to the presence of delegation fees. Ether burned as `BASEFEE` in EIP-1559 is another form of dividend, except it is paid out to all token owners. Validators and delegating stakers effectively “stack” both of these forms of dividend, receiving:
 
 - a) the burned fee revenue, where yield on capital is proportional to percentage ownership of the total token supply
 - b) the fee revenue rewarded to stakers, where yield on capital is proportional to percentage ownership of total tokens _staked_ 
