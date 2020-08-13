@@ -186,7 +186,7 @@ Then, Singleton abruptly changed directions. For the next 12 years, he bought ba
 
 # **Thoughts on present & future**
 
-The crypto market has seemed to revert to its unfortunately natural state as a Keynesian Meme Contest, so its either the best time or the worst time to discuss the fundamentals. A few of the recent dynamics can be described through the lens of cash flows.
+The crypto market has seemed to revert to its unfortunately natural state as a Keynesian Meme Contest, so it's either the best time or the worst time to discuss the fundamentals. A few of the recent dynamics can be described through the lens of cash flows.
 
 A lot of a bull market/mania can only be attributed to speculative premium, but cash flows have historically increased by orders of magnitude during these periods. Last cycle, it was fee revenue on Bitcoin and Ethereum and the evidence is clear that this will repeat, but we are also seeing massive expansions in DEX volume, lending volume, etc. 
 
@@ -197,7 +197,7 @@ It’s worthwhile to be wary of forward looking “P/E” ratios, at least if yo
 <figcaption align=center>Ethereum Price / Fee Revenue Ratio - Trailing 365-day (Log Chart)</figcaption>
 <br />
 
-In addition, we’ve seen dilution of a productive (or non-productive) asset as growth funding in liquidity mining. Subsidies happen to massively outcompete all other yields when assets are trading at large speculative premiums from day 0, and as we know, liquidity mining _can_ produce in large increase in demand-side metrics (possibly legit, possibly not). 
+In addition, we’ve seen dilution of a productive (or non-productive) asset as growth funding in liquidity mining. Subsidies happen to massively outcompete all other yields when assets are trading at large speculative premiums from day 0, and as we know, liquidity mining _can_ produce a large increase in demand-side metrics (possibly legit, possibly not). 
 
 We also have seen a real-time “collateral premium” reflected in assets, due to both low liquidity and demand to chase these yields. Examples include BAT with Compound, all YAM farmable assets, etc. This is further proof that tokens very much dissimilar from traditional forms of capital like equity. In addition to their value as productive assets, tokens can exhibit temporary or permanent demand premiums, one of which collateral-dependent yields in farming. 
 
