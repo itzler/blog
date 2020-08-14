@@ -179,7 +179,6 @@ Liquidity mining as a growth strategy also reminds me of the story of Henry Sing
 
 <br>
 ![_config.yml]({{ site.baseurl }}/images/singleton.png)
-<img src="/images/singleton.png" width="500">
 <figcaption align=center>Singleton returns during issuance spree</figcaption>
 <br />
 
