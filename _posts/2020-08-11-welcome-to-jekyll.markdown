@@ -140,7 +140,7 @@ _“Designed correctly, an effective distribution of a fee stream can further en
 
 An optimal token model is one that: 
 
-- a) Incentivizes all sets of protocol participants to perform their given role
+- a) Incentivizes all sets of protocol participants to perform their given role (i.e. supply side revenue), while minimizing extraction on users
 - b) Incentivizes all sets of protocol participants to own a single capital instrument as unified upside incentive 
 - c) Redistributes ownership of future cash flows to participants in order of importance
 - d) Maximizes retained cash flow - either paid out to or claimable by the capital instrument - after accomplishing a, b, and c
