@@ -178,7 +178,7 @@ Liquidity mining uses dilution as a means of subsidizing an increase in supply-s
 Liquidity mining as a growth strategy also reminds me of the story of Henry Singleton, CEO of Teledyne in the 60’s and 70’s. Over 8 years while Teledyne was trading at high multiples, he bought 130 companies -- all but 2 acquisitions were made using his own stock. These were the returns during the period [5].
 
 <br>
-![_config.yml]({{ site.baseurl }}/images/singleton.png =200x)
+![_config.yml]({{ site.baseurl }}/images/singleton.png){:height="50%" width="50%"}
 <figcaption align=center>Singleton returns during issuance spree</figcaption>
 <br />
 
