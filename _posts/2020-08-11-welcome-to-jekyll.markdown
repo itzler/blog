@@ -186,11 +186,11 @@ Then, Singleton abruptly changed directions. For the next 12 years, he bought ba
 
 # **Thoughts on present & future**
 
-The crypto market has seemed to revert to its unfortunately natural state as a Keynesian Meme Contest, so it's either the best time or the worst time to discuss the fundamentals. A few of the recent dynamics can be described through the lens of cash flows.
+The crypto market seems to have reverted to its unfortunately natural state as a Keynesian Meme Contest, so it's either the best time or the worst time to discuss the fundamentals. A few of the recent dynamics can be described through the lens of cash flows.
 
-A lot of a bull market/mania can only be attributed to speculative premium, but cash flows have historically increased by orders of magnitude during these periods. Last cycle, it was fee revenue on Bitcoin and Ethereum and the evidence is clear that this will repeat, but we are also seeing massive expansions in DEX volume, lending volume, etc. 
+Bull market valuations can only really be attributed to speculative premium, but cash flows have also historically increased by orders of magnitude during these periods. Last cycle, it was fee revenue on Bitcoin & Ethereum and the evidence is clear that this will repeat, but this time around, we are also seeing massive expansions in DEX volume, originated debt, etc. 
 
-It’s worthwhile to be wary of forward looking “P/E” ratios, at least if you’re looking for a useful signal. Depending on the trailing timeline, Ethereum’s `Price / Forward-Looking Fee Revenue` ratio has historically _bottomed out_ when it was most expensive. `Price / Trailing 365-day Fee Revenue` tends to serve as a more reasonable signal of cheapness, particularly when price is low as compared to the fee revenues of the previous bull market.
+It’s worthwhile to be wary of forward looking “P/E” ratios, at least if you’re looking for a useful signal. Depending on the trailing timeline, Ethereum’s `Price / Forward-Looking Fee Revenue` ratio has historically _bottomed out_ when ETH was most expensive. `Price / Trailing 365-day Fee Revenue` (which due to on-chain data, can be annualized daily!) tends to serve as a more reasonable signal of cheapness, particularly when price is low as compared to the fee revenues of the previous bull market.
 
 <br>
 ![_config.yml]({{ site.baseurl }}/images/ethereum-pr.png)
