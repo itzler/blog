@@ -20,7 +20,7 @@ I expect that the vast majority protocol tokens will be **productive assets.** T
 
 Protocol cash flows are still relatively small, but the **intrinsic value** of a productive asset is the sum of _all future cash_ that it can generate, discounted to the present. These are early stage technology projects , so  if successful, the lion share of cash generation ability lives in the future. 
 
-However, we can’t simply analyze protocol tokens in the same lense as traditional forms of productive capital. For one, protocols distribute cash flows directly to varying sets of market participants, as well as redistribute share of future cash flows between these participants.
+However, we can’t simply analyze protocol tokens in the same lens as traditional forms of productive capital. For one, protocols distribute cash flows directly to varying sets of market participants, as well as redistribute share of future cash flows between these participants.
 
 Tokens can also grant access to distinct forms of non-cash flow-related utility, and can even be socially accepted as commodity money! Sometimes these additional demand pressures are quantifiable (i.e. a discount token), but often, we can only reason about them qualitatively. How much is governance over a widely integrated DeFi protocol worth to second layer projects, or during a fork choice? 
 
