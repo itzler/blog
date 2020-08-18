@@ -16,7 +16,7 @@ _This paper aims to lay out a framework for protocol-generated value flows, the 
 
 Protocol tokens might be the most defining facet of crypto’s first 12 years, but there remains a large amount of confusion surrounding their fundamental makeup.
 
-I expect that the vast majority protocol tokens will be **productive assets.** This simply means that like bonds, businesses, farms, etc, protocol tokens grant claim on a stream of cash flow as yield. 
+I expect that the vast majority of protocol tokens will be **productive assets.** This simply means that like bonds, businesses, farms, etc, protocol tokens grant claim on a stream of cash flow as yield. 
 
 Protocol cash flows are still relatively small, but the **intrinsic value** of a productive asset is the sum of _all future cash_ that it can generate, discounted to the present. These are early stage technology projects , so  if successful, the lion share of cash generation ability lives in the future. 
 
@@ -76,7 +76,7 @@ Most PoW chains have a similar dynamic where all fee revenue is distributed to a
 <figcaption align=center> Trailing 6-Month (Feb-Aug) Revenue & Distribution by Protocol</figcaption>
 <br />
 
-With regards to tokens that are productive assets, the most common model is paying out some share of protocol revenue to token owners as a dividend. Buy & burn mechanisms, like stock buybacks, are simply as if you received a dividend and used it to buy more shares. When tokens are burned with protocol revenue, the effective dividend is paid out to the entire base of token owners. 
+With regards to tokens that are productive assets, the most common model is paying out some share of protocol revenue to token owners as a dividend. Buy & burn mechanisms, like stock buybacks, are economically equivalent to receiving a dividend and using it to buy more shares. When tokens are burned with protocol revenue, the effective dividend is paid out to the entire base of token owners. 
 
 Staking rewards - specifically, the share made up by protocol revenue rather than a subsidy - are another form of dividend. Unlike buy & burn models, the dividend is only paid out to token owning participants that are additionally providing a supply-side service: locking capital by staking the native asset. The implied yield on capital receiving a buy & burn dividend is `protocol revenue paid out / total supply * price`, but with staking rewards, the calculation shifts to `protocol revenue paid out /`**`staked supply`**`* price`.
 
@@ -84,7 +84,7 @@ Protocols also tend to vary size of revenue distribution with the _level_ of wor
 
 # **Dynamic redistribution of future cash flows**
 
-The not-yet-existent Eth 2 economics can help illustrate a case where both varieties of dividend exist in parallel. It’s important to note that subsidies such as block rewards are not productive cash flow, rather, they represent dilution of future cash flows from existing holders to the subsidy recipient. 
+The not-yet-existent Eth 2 economics can help illustrate a case where both varieties of dividend exist in parallel. It’s important to note that subsidies such as block rewards are not productive cash flow, rather, they represent dilution of future cash flows from existing holders to the subsidy recipient.  In the layer-1 specific case where a native asset is both productive and maintains a large monetary premium, issuance is somewhere between seigniorage and dilution.
 
 <br />
 ![_config.yml]({{ site.baseurl }}/images/eth2.png)
@@ -93,7 +93,7 @@ The not-yet-existent Eth 2 economics can help illustrate a case where both varie
 
 Assuming that either EIP-1559 and/or ETH2 is successfully implemented, Ether would shift in makeup to a productive asset. This more broadly applies to all native assets of PoS chains. Both validators, and stakers delegating to validators, are members of the above participant set where token-ownership is required in order to perform a supply-side service. 
 
-The fee revenue portion of the staking reward (‘tips’) is paid as a dividend, where delegating stakers will likely receive slightly less share than validators due to the presence of delegation fees. Ether burned as `BASEFEE` in EIP-1559 is another form of dividend, except it is paid out to all token owners. Validators and delegating stakers effectively “stack” both of these forms of dividend, receiving:
+The fee revenue portion of the staking reward (‘tips’) is paid as a dividend, where delegating stakers will likely receive a slightly smaller share than validators due to the presence of delegation fees. Ether burned as `BASEFEE` in EIP-1559 is another form of dividend, except it is paid out to all token owners. Validators and delegating stakers effectively “stack” both of these forms of dividend, receiving:
 
 - a) the burned fee revenue, where yield on capital is proportional to percentage ownership of the total token supply
 - b) the fee revenue rewarded to stakers, where yield on capital is proportional to percentage ownership of total tokens _staked_ 
@@ -143,7 +143,7 @@ An optimal token model is one that:
 - a) Incentivizes all sets of protocol participants to perform their given role (i.e. supply side revenue), while minimizing costs to users
 - b) Incentivizes all sets of protocol participants to own a single capital instrument as unified upside incentive 
 - c) Redistributes ownership of future cash flows to participants in order of importance
-- d) Maximizes retained cash flow - either paid out to or claimable by the capital instrument - after accomplishing a, b, and c
+- d) Maximizes effectiveness of retained cash flow allocation (possibly paid out to or claimable by the capital instrument) after accomplishing a, b, and c
 
 As can be seen above in the Eth2 diagram, most protocols have not yet solved sustainable developer funding -- a clearly crucial set of supply-side participants - but iterations on each of the last two points might serve as solutions. 
 
@@ -190,7 +190,7 @@ The crypto market seems to have reverted to its unfortunately natural state as a
 
 Bull market valuations can only really be attributed to speculative premium, but cash flows have also historically increased by orders of magnitude during these periods. Last cycle, it was fee revenue on Bitcoin & Ethereum and the evidence is clear that this will repeat, but this time around, we are also seeing massive expansions in DEX volume, originated debt, etc. 
 
-It’s worthwhile to be wary of forward looking “P/E” ratios, at least if you’re looking for a useful signal. Depending on the trailing timeline, Ethereum’s `Price / Forward-Looking Fee Revenue` ratio has historically _bottomed out_ when ETH was most expensive. `Price / Trailing 365-day Fee Revenue` (which due to on-chain data, can be annualized daily!) tends to serve as a more reasonable signal of cheapness, particularly when price is low as compared to the fee revenues of the previous bull market.
+It’s worthwhile to be wary of forward looking "P/E" or "P/S" ratios. They serve as a useful gage of price vs. present cash flows, but not as a signal of historical cheapness. Depending on the trailing timeline, Ethereum’s `Price / Forward-Looking Fee Revenue` ratio has historically _bottomed out_ when ETH was most expensive. `Price / Trailing 365-day Fee Revenue` (which due to on-chain data, can be annualized daily!) tends to serve as a more reasonable signal of cheapness, particularly when price is low as compared to the fee revenues of the previous cycle.
 
 <br>
 ![_config.yml]({{ site.baseurl }}/images/ethereum-pr.png)
@@ -204,7 +204,7 @@ We also have seen a real-time “collateral premium” reflected in assets, due 
 
 <br />
 
-_Thank you to Ash Egan, Teo Leibowtiz, Dan Elitzer, Hasu, Henri Hyvärinen, and Henry Harder for conversations & feedback on previous versions_
+_Thank you to Ash Egan, Teo Leibowtiz, Dan Elitzer, Hasu, Henri Hyvärinen, Henry Harder, Will Price, and Liam Kovatch for conversations & feedback on previous versions_
 
 <br />
 
