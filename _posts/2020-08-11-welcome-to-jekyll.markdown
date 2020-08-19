@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On protocol tokens & on-chain cash flows"
-date:   2020-08-19 01:47:15 -0400
+date:   2020-08-11 01:47:15 -0400
 categories: jekyll update
 permalink: /cash-flows/
 ---
