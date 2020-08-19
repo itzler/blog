@@ -186,7 +186,7 @@ Then, Singleton abruptly changed directions. For the next 12 years, he bought ba
 
 # **Thoughts on present & future**
 
-The crypto market seems to have reverted to its unfortunately natural state as a Keynesian Meme Contest, so it's either the best time or the worst time to discuss the fundamentals. A few of the recent dynamics can be described through the lens of cash flows.
+The crypto market seems to have reverted to its unfortunately natural state as a Keynesian Meme Contest, so it's either the best time or the worst time to discuss fundamentals. A few of the recent dynamics can be described through the lens of cash flows.
 
 Bull market valuations can only really be attributed to speculative premium, but cash flows have also historically increased by orders of magnitude during these periods. Last cycle, it was fee revenue on Bitcoin & Ethereum and the evidence is clear that this will repeat, but this time around, we are also seeing massive expansions in DEX volume, originated debt, etc. 
 
